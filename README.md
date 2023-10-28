@@ -13,7 +13,7 @@ Medic Marie is an A.I.-powered medical assistant that provides you with 24/7 inf
 
 ## General info
 
-Medic Marie is a SMS chatbot that provides information about health related issues in the Philippines. The group, Zenin Tech, aims to provide a low-cost health care system to people especially in rural areas in the country. By giving information regarding nearby hospitals, doctors, and information and treatment for certain symptoms.
+Medic Marie is a SMS chatbot that provides information about health related issues in the Philippines and the world. The group, Zenin Tech, aims to provide a low-cost health care system to people especially in rural areas in the country. By giving information regarding nearby hospitals, doctors, and information and treatment for certain symptoms.
 
 The project is built using Next.js to run the server, the Globe Labs SMS API for sending and receiving SMS, and MongoDB for storing data.
 
