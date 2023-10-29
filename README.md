@@ -32,9 +32,9 @@ The project is built using Next.js to run the server, the Globe Labs SMS API for
 
 To run this project, make sure you have installed node.js and git.
 
-Furthermore just use a Code Editor like VS Code, Atom, or Sublime (Even Vim probably if you want) to edit stuffs or run in the terminal.
+Furthermore use a Code Editor like VS Code, Atom, or Sublime (Even Vim probably if you want) to edit stuff or run in the terminal.
 
-To run this app, do the following below.
+To run this app, please do the following below.
 
 ```sh
 $ git clone https://github.com/HansGabriel/MedicMarie.git
