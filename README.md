@@ -50,7 +50,7 @@ $ npm run dev
 
 ## How to use the Web App
 
-The following instructions will open the app. You can type [localhost:5000](localhost.5000) in your favorite browser to start using the app.
+The following instructions will open the app. You can type [localhost:5000](localhost.3000) in your favorite browser to start using the app.
 
 ```sh
 127.0.0.1:3000
