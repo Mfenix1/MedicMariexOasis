@@ -33,7 +33,11 @@ The project is built using Next.js to run the server, the Globe Labs SMS API for
 To run this project, make sure you have installed node.js and git.
 
 Furthermore use a Code Editor like VS Code, Atom, or Sublime (Even Vim probably if you want) to edit stuff or run in the terminal.
-Make sure it is node version 16
+Make sure it is node version 16.
+You can node version by using Node Version Manager (nvm):
+To install (specific instructions to install nvm can be found in each Github link below):
+1.) For Mac users: https://github.com/nvm-sh/nvm
+2.) For Windows users: https://github.com/coreybutler/nvm-windows
 
 To run this app, please do the following below.
 
