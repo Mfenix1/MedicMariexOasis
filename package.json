@@ -1,0 +1,36 @@
+{
+	"name": "medic_marie",
+	"author": "HansGabriel",
+	"version": "0.1.0",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"@prisma/client": "^2.30.0",
+		"bcrypt": "^5.0.1",
+		"dotenv": "^10.0.0",
+		"mongoose": "^6.0.2",
+		"mongoose-regexp": "0.0.1",
+		"next": "9.5.3",
+		"next-images": "^1.4.1",
+		"react": "16.13.1",
+		"react-bootstrap": "^1.6.1",
+		"react-chatbot-kit": "^1.1.20",
+		"react-dom": "16.13.1",
+		"react-icons": "^3.11.0",
+		"sass": "^1.26.10",
+		"twilio": "^3.67.1"
+	},
+	"devDependencies": {
+		"eslint": "^7.9.0",
+		"eslint-config-airbnb": "^18.2.0",
+		"eslint-plugin-import": "^2.22.0",
+		"eslint-plugin-jsx-a11y": "^6.3.1",
+		"eslint-plugin-react": "^7.20.6",
+		"eslint-plugin-react-hooks": "^4.1.2"
+	}
+}
