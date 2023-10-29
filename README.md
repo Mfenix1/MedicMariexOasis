@@ -37,7 +37,7 @@ Furthermore use a Code Editor like VS Code, Atom, or Sublime (Even Vim probably 
 To run this app, please do the following below.
 
 ```sh
-$ git clone https://github.com/Mfenix1/Medic-Marie-Oasis-2.0-
+$ git clone https://github.com/Mfenix1/MedicMariexOasis.git
 $ cd MedicMariexOasis
 $ npm install
 $ npm run dev
