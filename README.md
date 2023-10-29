@@ -38,7 +38,7 @@ To run this app, please do the following below.
 
 ```sh
 $ git clone https://github.com/Mfenix1/Medic-Marie-Oasis-2.0-
-$ cd MedicMarie
+$ cd MedicMariexOasis
 $ npm install
 $ npm run dev
 ```
